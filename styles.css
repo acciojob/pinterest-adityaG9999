@@ -11,10 +11,11 @@
 	width:100%;
 	max-width:600px;
 	height:auto;
-	object-fit:fill;
+	object-fit:cover;
 }
 .eg1{
 	align-content:center;
+	
 	
 }
 .button{
