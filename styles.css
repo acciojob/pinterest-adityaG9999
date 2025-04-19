@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.hero{
+	dispaly:flex;
+	justify-content:space-between;
+	align-items:stretch;
+	flex-wrap:wrap;
+	align-content:center;
+}
+
+.image{
+	width:100%;
+	max-width:600px;
+	height:auto;
+	object-fit:cover;
+}
+.eg1{
+	align-content:center;
+	
+}
+.button{
+	display:block-inline;
+	 background-color: #e60023; /* Pinterest red */
+  color: white;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  
+  border-radius: 8px;
+ 
+ 
+}
